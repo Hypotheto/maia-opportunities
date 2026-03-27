@@ -7,6 +7,8 @@ Things to revisit and document properly.
 - Family structure
 - Greece / Libya identity experience
 - Relationship with father
+- Full housing / family-home chapter: living with mother and stepfather in Kifissia, daughters' visit arrangements, and the emotional tradeoff between independence and family closeness
+- Uncle Hamza / Neo Faliro chapter and what role that refuge played during the "start over" years
 
 ## Horses era
 - Why horses took over so strongly after school

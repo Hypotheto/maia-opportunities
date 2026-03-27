@@ -68,6 +68,17 @@
 - Technical characterization worth remembering: **Kjetil** is the top-level software architect; **Erik** specializes in networks and lost-data/recovery work. Zad sees both as highly respected senior developers.
 - Current operational problem (2026-03-27): Erik and Kjetil came to Greece to search old Aventurine hard drives for missing DFUW build data. They identified the relevant server drives, but one drive is missing from the **4-drive REV RAID set**: **drive #2**.
 
+## Personal living situation
+
+- Zad currently lives in **Kifissia, Athens**, in the apartment of his mother and stepfather; the precise street address is known in raw notes and should be treated as sensitive/private.
+- He has privacy there, but he wants to have **his own place** again.
+- When Zad's daughters visit, he relocates to the living room and gives them his room.
+- He knows this makes them uncomfortable because they feel they are imposing, even though he personally values being all together.
+- Important emotional tradeoff: if Zad had his own place, his daughters might get less easy time with their grandmother, whom they love.
+- Zad's uncle **Hamza** ("Amou") has a place in **Neo Faliro**; the exact address is sensitive/private. When Hamza is in Libya, Zad sometimes stays there, partly for extra privacy.
+- Zad does **not own a car** at present; his stepfather gave him one to use.
+- Zad's own summary of the broader chapter: he feels he has **lost almost everything over the past decade** and wants to **start over now**.
+
 ## Work context: Tethys Family Office
 
 - Zad works with **Tethys Family Office** and wants this context retained because it is strategically important but also somewhat fluid and due for updating.
