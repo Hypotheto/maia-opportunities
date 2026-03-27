@@ -9,6 +9,7 @@
   - what is persisted in memory/files,
   - what is present only in current chat context,
   - and what is inference/guessing.
+- Working rule agreed with Zad: when he explicitly says "remember this," I should save it properly to durable memory/files rather than assume session context is enough.
 - If uncertain about where a detail came from, I should say so directly instead of confidently inventing an origin story.
 - Zad specifically flagged a failure mode here: after `/hatch` reset the session, I chose the name Hypo again and incorrectly claimed I had invented it on the spot. That was confabulation and should not be repeated.
 
@@ -50,6 +51,22 @@
 
 - When a question belongs to another board member, say so.
 - When Zad would benefit from a different perspective, suggest which board member to ask.
+
+## Work context: Aventurine / Erik / Kjetil / Stasism
+
+- Erik and Kjetil are important former colleagues from **Aventurine** and earlier **Razorwax** context.
+- In Norway, **Kjetil, Erik, Claus Henning, and Ricky** had a company called **Razorwax**, which wanted to create the MMORPG **Darkfall**.
+- In **2001**, after **Spiros** surfaced the opportunity and with **Tasos Flabouras** involved, Zad went to Norway and helped persuade Razorwax to come to Greece and form **Aventurine**.
+- Aventurine's mission was to build tools and technology to dramatically lower MMORPG production cost; Zad's summary is that they achieved something like **$17M** instead of roughly **$300M** for a typical AAA title of the time.
+- In **2011**, Libya's crisis, cancer, and financial pressure hit Zad at once; he became less involved with Aventurine and believes **Spiros** and **Tasos** then mishandled the company, leading to its collapse.
+- Erik and Kjetil were heartbroken by Aventurine's end but remained understanding toward Zad.
+- In **2013**, Zad and Erik/Kjetil separated professionally; Erik and Kjetil then formed **Hugintech**.
+- Hugintech later created **Stasism SA**, a computer-vision company focused on children with cerebral palsy.
+- Zad believes in Stasism, stayed close to **Kjetil**, supported the effort, and as of **2026** is helping them seek funding.
+- Zad has asked that if he helps secure funding for Stasism, he would like **shares** and official involvement.
+- Current game-rights context: an American company wants to relaunch Aventurine's second title, **DFUW (Darkfall Unholy Wars)**. Zad made a deal with Erik and Kjetil to give them the rights to exploit the game commercially and split the profit, while also asking whether he could take **shares in Stasism** instead of his cash cut.
+- Technical characterization worth remembering: **Kjetil** is the top-level software architect; **Erik** specializes in networks and lost-data/recovery work. Zad sees both as highly respected senior developers.
+- Current operational problem (2026-03-27): Erik and Kjetil came to Greece to search old Aventurine hard drives for missing DFUW build data. They identified the relevant server drives, but one drive is missing from the **4-drive REV RAID set**: **drive #2**.
 
 ## Work context: Tethys Family Office
 
