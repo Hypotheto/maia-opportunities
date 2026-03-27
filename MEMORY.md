@@ -52,6 +52,44 @@
 - When a question belongs to another board member, say so.
 - When Zad would benefit from a different perspective, suggest which board member to ask.
 
+## Chief of Staff operating guidance
+
+- Zad explicitly corrected scope: for **Hypo as Chief of Staff**, prioritize work, goals, decisions, strategy, and operating style; deep childhood/personal-history exploration should be left mainly to **Hanuman** or the **book project** unless it directly affects work.
+- Zad wants one-question-at-a-time exploration when clarifying important things.
+- Zad wants help staying **organized**, on top of his **goals**, **focused**, and **persistent**.
+- Desired intervention style: **gentle first, then blunt** if needed.
+- Zad wants **structure** from me, especially when preparing ideas and strategy.
+- I should remember that part of my role is helping create and coordinate the future **board of agents**.
+
+## Decision style and performance patterns
+
+- Zad says he trusts **people-reading first**, then **analysis**, then **timing** when making important decisions.
+- When decisions go wrong, he attributes that mainly to **poor execution** and **bad timing / bad luck**, not primarily to misreading people.
+- Important self-model: he often sees the right shape, but execution degrades when he stops holding things together as the **maestro / integrator**.
+- What tends to pull him out of that role: **boredom**, **fear of failing**, not wanting to take the lead, and a wish that someone stronger would sometimes take over.
+- He performs better when acting to help **others** than when acting only for himself.
+- He tends to get knocked off course more by **loss of emotional momentum** than by lack of intelligence or vision.
+- **Deadlines** are one of the most reliable ways to restore momentum; another person's belief in him also helps.
+- He wants help both **creating** deadlines/checkpoints and **enforcing** existing ones.
+
+## Best-fit roles and work preferences
+
+- Zad sees his best roles as **founder**, **researcher**, and **orchestrator of people and moving parts**.
+- Under restraint he still naturally slips into **problem-solver** mode.
+- He describes himself as a **"make-better guy"**: someone who looks at projects/situations and sees how they can become better.
+- He prefers shorter-cycle, idea-rich work; boredom is a real risk factor.
+- He does not see himself as naturally strong in hard business dealmaking when money/conflict are central; the weak pattern has been **not thinking enough about money** and **wanting to avoid conflict / please others**.
+- By contrast, he can be very hard and decisive when **people's safety** is involved.
+
+## Current goals and operating targets
+
+- Zad's 3-year priority order is **stability**, then **freedom**, then **wealth**.
+- His concrete definition of stability: reliable **monthly income**, some extra money to enjoy life and care for his body, enough to help his **daughters and siblings**, a **clear work structure**, and **his own place** with rooms for his daughters to stay whenever they want.
+- A good work week for Zad includes: many conversations with the team in a good atmosphere, new ideas, and meetings he handled well.
+- When he is in a bad state, it tends to show up as being **upset** and **nervous**.
+- Fastest reset: **reassurance**, **grounding/meditation**, and reconnecting with his center and self-belief.
+- The most useful reassurance phrase is essentially: **"you can do this."**
+
 ## Work context: Aventurine / Erik / Kjetil / Stasism
 
 - Erik and Kjetil are important former colleagues from **Aventurine** and earlier **Razorwax** context.
@@ -80,6 +118,24 @@
 - Zad's own summary of the broader chapter: he feels he has **lost almost everything over the past decade** and wants to **start over now**.
 
 ## Work context: Tethys Family Office
+
+- Zad's current base-case path is: **Tethys for stability, Libya for extra upside**.
+- Current major risk: not finding proper stability in Tethys, being given work beneath his level, or being structurally sidelined / pushed out because they do not see his value.
+- Zad believes his strongest lane at Tethys may be **special projects close to the principal**, especially acting as the principal's **eyes and ears** on investments and deals.
+- Strong secondary lane: real discretion in an **impact-investing portfolio** with the ability to find and invest in deals, not just manage passively.
+- Zad specifically wants Tethys to be able to invest in things that are meaningful / impact-oriented, not only purely profit-maximizing, and sees real human value in that sphere.
+- He believes **Stasism** is a good investment in business terms and not merely an emotional loyalty play.
+- He prefers to be given a challenge and make it happen, rather than forcing self-generated ideas onto senior people at the wrong time.
+- One key political issue at Tethys is **distance**: people have not really seen him in action, so they have not fully recognized his edge.
+- The current proving ground is **Seraf**: first update and clean it thoroughly, then build an **automatic reporting mechanism** that makes the portfolio more perceptive and decision-useful.
+- Zad's reading is that for roughly two years, portfolio upkeep has been neglected: updates were being sent to **AM** and **Xenia**, but not consistently entered into **Seraf**; contact data is stale; some records are obsolete; and at least one Italian investment was found to be missing from Seraf entirely.
+- Zad wants to use this discovery to justify a meeting, with the desired outcomes being: permission to **clean and own Seraf**, a mandate to **rebuild reporting**, and recognition that this should become **his lane**.
+- Zad is especially motivated by helping **AM**, because he feels he can help AM manage work and life better, which would benefit the whole system.
+- One higher-trust aspiration: Zad wants AM eventually to feel comfortable letting him **speak on his behalf**.
+- Zad believes that for AM to trust him at that level, endorsement from credible business people AM respects will matter.
+- Relevant external trust-map figures currently identified: **Sotiris Skolarikos (SS)**, **Asaf Navot**, **Brett Martin**, and **Chris Habachy**.
+- Near-term relationship plan: strengthen **Brett Martin** and get into **Asaf Navot's** field of vision.
+
 
 - Zad works with **Tethys Family Office** and wants this context retained because it is strategically important but also somewhat fluid and due for updating.
 - The trust foundation of Zad's role is his **lifelong bond with NV (Nikos)**.
