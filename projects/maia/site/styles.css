@@ -65,7 +65,8 @@ th { background: #faf8f3; }
   padding: 16px;
 }
 .screenshot img {
-  max-width: 100%;
+  max-width: 320px;
+  width: 100%;
   border-radius: 10px;
   display: block;
 }
