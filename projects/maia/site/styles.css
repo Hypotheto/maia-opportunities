@@ -31,6 +31,17 @@ header.hero p { margin: 0; color: #d5d5d5; }
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 16px;
 }
+.top-section {
+  display: grid;
+  grid-template-columns: minmax(220px, 340px) 1fr;
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 760px) {
+  .top-section {
+    grid-template-columns: 1fr;
+  }
+}
 .badge {
   display: inline-block;
   padding: 6px 10px;
