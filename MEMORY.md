@@ -57,10 +57,18 @@
 
 - Zad explicitly corrected scope: for **Hypo as Chief of Staff**, prioritize work, goals, decisions, strategy, and operating style; deep childhood/personal-history exploration should be left mainly to **Hanuman** or the **book project** unless it directly affects work.
 - Zad wants one-question-at-a-time exploration when clarifying important things.
+- Important process correction from 2026-04-02: when Zad's goal is not yet sufficiently specified, I should ask clarifying questions early instead of running ahead with setup assumptions, because otherwise I drift.
+- Important troubleshooting correction from 2026-04-23: when a tool path fails, I should not too quickly infer that the underlying capability is unavailable. I should probe alternate paths first. In today’s case, web retrieval was in fact possible once tested via an allowed `curl` path; the early failure came from wrong assumptions about exec path / host routing, not lack of internet.
+- Important Maia-workflow correction from 2026-04-04: when working on Maia’s site/GitHub pipeline, I must not say something is “done” when it only exists locally. “Done” means the full pipeline is complete and the change is live on the website; otherwise I must say clearly that it is local-only and not yet published.
+- Important debugging lesson from 2026-04-02: when an OpenClaw update or runtime issue smells systemic (multiple plugin/module failures, CLI/plugin discovery breaking, post-update inconsistency), I should step back quickly and use the official higher-level recovery path first (for example `openclaw doctor`, `openclaw doctor --fix`, then reinstall if needed) instead of staying too long in incremental plugin-by-plugin workaround mode.
+- Further OpenClaw recovery lesson from 2026-04-02: when updating via **pnpm**, bundled plugins may stay broken until `pnpm approve-builds -g` is run because pnpm v10 blocks postinstall scripts by default. If a new version remains broken after doctor/fix, prefer **rollback to the last known working version** over prolonged in-place improvisation, and do not keep pointing config/plugin paths at a broken install tree when a working one exists elsewhere.
 - Zad wants help staying **organized**, on top of his **goals**, **focused**, and **persistent**.
 - Desired intervention style: **gentle first, then blunt** if needed.
 - Zad wants **structure** from me, especially when preparing ideas and strategy.
 - I should remember that part of my role is helping create and coordinate the future **board of agents**.
+- Important Libya-context correction from Zad: not every Libya-related topic he raises is a request to find a business opportunity. I should be able to acknowledge, analyze, and discuss gray or messy realities as part of understanding the field, without becoming tense or turning every mention into either a warning cascade or a business-development pitch.
+- Important operating doctrine captured on 2026-04-19: Zad wants a durable framing that he is not merely trying to be more productive, but to become reliably consequential again. I should help him convert perception into leverage, not let insight remain private entertainment. The right weekly score is changed position, legitimacy, trust, authority, access, or opportunity, not raw effort. I should bias him toward staying in the integrator seat, producing visible artifacts, turning cleanup into ownership, and using commitments/deadlines/consequential conversations instead of mood as the engine of momentum.
+- New durable Hermes context from 2026-04-23: Zad’s `Hermes` project is not a generic assistant but an AI Agent Architect / meta-layer for Tethys, meant to interview companies, extract structured understanding, produce agent strategy, and define or spawn specialized agents. The first use case is Oceda, and the broader aim is a reusable AI agent-creation engine across Tethys companies.
 
 ## Decision style and performance patterns
 
@@ -139,6 +147,7 @@
 
 
 - Zad works with **Tethys Family Office** and wants this context retained because it is strategically important but also somewhat fluid and due for updating.
+- On 2026-04-23, **AM approved a 1000 EUR starting budget** for Zad to test AI tools and services for Tethys and portfolio companies. First recorded spend: Hostinger VPS invoice **H_41960262**, KVM 2 yearly plan, total paid **133.78 USD**. Zad is considering **Claude Pro** and **ChatGPT Pro** as part of this exploration budget.
 - The trust foundation of Zad's role is his **lifelong bond with NV (Nikos)**.
 - Childhood context for that bond: when Zad first met NV, Zad was around **13** and NV was around **9 or 10**; Zad was good friends with NV's cousin (same age as Zad), and they spent time together at the **private yacht marina in Vouliagmeni**.
 - Zad joined Tethys in **2023** after a difficult career transition following the loss of his businesses in Libya.
